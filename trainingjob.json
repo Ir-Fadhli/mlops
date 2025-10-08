@@ -9,7 +9,7 @@
     },
     "ResourceConfig": {
         "InstanceCount": 1,
-        "InstanceType": "ml.t3.medium",
+        "InstanceType": "ml.m5.xlarge",
         "VolumeSizeInGB": 30
     },
     "TrainingJobName": "",
